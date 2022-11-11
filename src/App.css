@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+h1 {
+    background: linear-gradient(267.81deg, #3C3DBF 1.92%, #2998FF 106.64%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+h2 {
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 32px;
+    line-height: 48px;
+    color: #454545;
+}
+
+h6 {
+    font-size: 13px;
+    line-height: 20px;
+    color: #A1A1A1;
+}
